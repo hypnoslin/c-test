@@ -1,2 +1,2 @@
 # c-test
-some c example
+Some c examples which are used to understand how it works
